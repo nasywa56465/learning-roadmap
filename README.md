@@ -1,4 +1,4 @@
-# learning-roadmap
+# 🛣️ My IT Learning Roadmap
 
 Selamat datang di catatan belajar versi aku!
 Di sini aku tuliskan roadmap belajar IT yang aku jalani step by step.
