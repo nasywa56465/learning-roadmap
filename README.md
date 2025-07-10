@@ -3,6 +3,8 @@
 Selamat datang di catatan belajar versi aku!
 Di sini aku tuliskan roadmap belajar IT yang aku jalani step by step.
 
+----
+
 🎯 **Fokusku sekarang:**
 - Backend Development (PHP, Laravel)
 - Frontend (HTML, CSS, JS)

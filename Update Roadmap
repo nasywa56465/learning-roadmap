@@ -1,0 +1,22 @@
+# 🛣️ My IT Learning Roadmap2
+
+Hi everyone!👋
+Ini tempat aku nyimpen semua hal yang aku pelajari seputar coding dan teknologi biar nggak hilang. 
+
+---
+
+***Cheat sheet***📚
+
+**Istililah penting dalam Git**
+- Git Repository --> Tempat penyimpanan semua file project & riwayat perubahannya.
+- Git Branch     --> Tempat kamu bisa coba fitur baru tanpa ganggu kode utama.
+- Git Fork       --> Menyalin repository orang lain ke akun GitHub kamu.
+- Git Clone      --> Download seluruh isi repository dari GitHub ke laptop kamu.
+- Git Commit     --> Menyimpan snapshot/perubahan kode ke repository lokal.
+- Git Add        --> Memilih file mana yang mau disimpan ke commit.
+- Git Push       --> Mengirim commit dari komputer kamu ke GitHub.
+
+*Thanks*
+*Let's learn, build, and grow together*
+
+---
