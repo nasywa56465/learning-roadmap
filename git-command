@@ -1,0 +1,10 @@
+#🛣️My Learning IT Roadmap
+
+lanjut belajar git command 
+---
+
+**Git Commands**
+- `git init` → Membuat repo baru
+- `git add .` → Tambahkan semua perubahan ke staging
+- `git commit -m "Pesan"` → Simpan perubahan ke repo lokal
+- `git push origin branch_name` → Kirim ke GitHub
